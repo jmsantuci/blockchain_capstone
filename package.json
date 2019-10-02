@@ -1,0 +1,25 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "Udacity Blockchain Course - This is the Capstone Project, the final project",
+  "main": "index.js",
+  "repository": "https://github.com/jmsantuci/blockchain_capstone",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "<jmsantuci@gmail.com> ",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "lite-server": "2.4.0",
+    "truffle-assertions": "^0.9.1"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.2",
+    "solc-js": "^0.5.2",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  }
+}
